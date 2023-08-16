@@ -1,0 +1,128 @@
+h1{
+
+text-align: center;
+font-size: 50px;
+color: yellow;
+font-family: 'Courier New', Courier, monospace; 
+
+}
+
+hr{
+
+width: 50%;
+height: 5px;
+background: black;
+
+}
+
+.paragrafo{
+
+width: 60%;
+margin: auto;
+font-size: 20px;
+color: yellow;
+
+}
+
+img{
+
+width: 500px;
+margin: auto;
+
+}
+
+#imagemvitoria01{
+
+width: 500px;
+margin: auto;
+
+}
+
+#HISTÓRIA{
+
+text-align: center;
+font-size: 50px;
+color: yellow;
+font-style: italic;
+
+
+}
+
+
+.paragrafo04{
+
+text-align: center;
+color: yellow;
+margin: auto;
+font-size: 20px;
+
+}
+
+
+#letreiro{
+
+display: block;    
+width: 50%;    
+margin: auto;
+font-size: 30px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: yellow;
+
+}
+
+
+#classicojavi{
+
+width: 50%;
+display: block;
+margin: auto;
+
+}
+
+body{
+
+background-image: url(../images/bahianoar-screenshot-20230802-211935-2.png);
+background-size: cover;
+
+}
+
+h1{
+
+text-align: center;    
+font-size: 30px;
+color: yellow;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+img{
+
+width: 500px;
+margin: auto;
+
+}
+
+#barradao01{
+
+width: 500px;
+margin: auto;
+
+}
+
+.paragrafo03{
+
+width: 60%;
+margin: auto;
+font-size: 20px;
+color: yellow;
+
+}
+
+h1{
+
+text-align: center;
+color: 30px;
+color: yellow;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
